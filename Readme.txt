@@ -1,1 +1,1 @@
-just for testing purpose
+Testing continuos integration using jenkins, git and Python
